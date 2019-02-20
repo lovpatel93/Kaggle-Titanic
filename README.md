@@ -1,5 +1,8 @@
 # Kaggle-Titanic
 
+https://www.kaggle.com/c/titanic
+
+
 The Titanic challenge on Kaggle is a competition in which the task is to predict the survival or the death of a given passenger based on a set of variables:
 
 * Survived: Outcome of survival (0 = No; 1 = Yes)
