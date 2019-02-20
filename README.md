@@ -42,4 +42,4 @@ I have Predicted the survival of the Titanic passengers using Random Forest and 
 8. GridSearchCV evaluating using multiple scorers
 
 
-***** I have uploaded the train and test dataset along with my final prediction on test set from both the algorithms
+***** I have uploaded the train and test dataset along with my final prediction on test set from both the algorithms **********
